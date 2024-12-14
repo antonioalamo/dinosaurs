@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinosaurs/static/css/main.f5cc55ac.css",
+    "main.js": "/dinosaurs/static/js/main.78d56b2f.js",
+    "static/js/488.6c3f7ca2.chunk.js": "/dinosaurs/static/js/488.6c3f7ca2.chunk.js",
+    "index.html": "/dinosaurs/index.html",
+    "main.f5cc55ac.css.map": "/dinosaurs/static/css/main.f5cc55ac.css.map",
+    "main.78d56b2f.js.map": "/dinosaurs/static/js/main.78d56b2f.js.map",
+    "488.6c3f7ca2.chunk.js.map": "/dinosaurs/static/js/488.6c3f7ca2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5cc55ac.css",
+    "static/js/main.78d56b2f.js"
+  ]
+}
