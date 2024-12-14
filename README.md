@@ -6,6 +6,28 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+```bash
+npm install gh-pages --save-dev
+```
+
+Add a script to your package.json:
+
+```json
+"scripts": {
+  "deploy": "gh-pages -d build"
+}
+```
+
+Here, -d build specifies the directory (e.g., build) containing the static files to be deployed.
+Deploy your site:
+bash
+```bash
+npm run deploy
+```
+
+This will automatically push the contents of the specified directory (e.g., build) to the gh-pages branch of your repository, making it available on GitHub Pages.
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
