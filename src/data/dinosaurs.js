@@ -6,7 +6,7 @@ export const dinosaurs = [
     diet: "Carnívoro",
     length: "12 metros",
     weight: "7 toneladas",
-    image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Tyrannosaurus_Rex_Holotype.jpg",
+    image: "https://antonioalamo.github.io/dinosaurs/images/Tyrannosaurus_Rex_Holotype.webp",
     description: "El Tyrannosaurus Rex fue uno de los depredadores más temibles que jamás haya existido. Con sus poderosas mandíbulas y dientes afilados, dominó los ecosistemas del Cretácico."
   },
   {
